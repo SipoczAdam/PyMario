@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(home_back2.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 70px;
+}
+
+.nav-area {
+  list-style: none;
+}
+
+.nav-area li {
+  display: inline-block;
+  padding: 0 15px;
+  text-transform: uppercase;
+}
+
+.nav-area li a {
+  transition: .3s;
+  color: #fff;
+}
+
+.nav-area li a:hover {
+  color: #d22938;
+}
+
+.btn-area {
+  cursor: pointer;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #d22938;
+}

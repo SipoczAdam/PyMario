@@ -1,0 +1,73 @@
+body {
+    background-image: url(home_back2.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+}
+
+#cube {
+    border: 1px solid #fff;
+}
+
+#earthmars {
+    border: 1px solid #fff;
+}
+
+#rotatecube {
+    border: 1px solid #fff;
+}
+
+#rotatestar {
+    border: 1px solid #fff;
+}
+
+#amoba {
+    border: 1px solid #fff;
+}
+
+#cppcalc {
+    border: 1px solid #fff;
+}
+
+#calc {
+    border: 1px solid #fff;
+}
+
+#cuberoad {
+    border: 1px solid #fff;
+}
+
+#pysnake {
+    border: 1px solid #fff;
+}
+
+#pyshoot {
+    border: 1px solid #fff;
+}
+
+#pyball {
+    border: 1px solid #fff;
+}
+
+figcaption {
+    text-align: center;
+    color: #fff;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+}
