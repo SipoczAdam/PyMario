@@ -1,0 +1,33 @@
+body {
+    background-image: url(home_back2.jpg);
+}
+
+div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.btn-area {
+    cursor: pointer;
+    color: #fff;
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-color: #d22938;
+}
+
+a {
+    text-decoration: none;
+}
